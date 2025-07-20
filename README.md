@@ -20,6 +20,7 @@
 这是获取 API Key 的核心步骤。
 
 **方法一（强烈推荐，超简单！）：直接在AI Studio领取**
+
 这就像是VIP快速通道，专门为获取Gemini这种免费API准备的！
 
 1.  **访问 Google AI Studio**：在浏览器中打开 [aistudio.google.com](aistudio.google.com)
@@ -31,6 +32,7 @@
     *   稍等片刻，屏幕上就会弹出一个包含一长串字符的密钥。**这就是您需要的 API Key！**
 
 **方法二（备用，功能更全）：通过Google Cloud平台**
+
 如果第一种方法不知为何失败了，或者您以后想探索更多功能，可以走这条路。
 
 1.  **进入平台**: [Google Cloud](https://console.cloud.google.com/)
